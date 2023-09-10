@@ -1,0 +1,23 @@
+h1 {
+    background-color: yellow;
+    color: blue;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 0px;
+    text-align: center;
+    font-family: 'Roboto+Mono';
+}
+
+h2 {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+p {
+    color: black;
+
+
+}
